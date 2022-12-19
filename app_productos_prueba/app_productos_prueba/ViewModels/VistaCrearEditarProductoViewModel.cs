@@ -2,7 +2,6 @@
 using app_productos_prueba.Services;
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
-using Javax.Security.Auth;
 using System;
 using System.Collections.Generic;
 using System.Linq;
