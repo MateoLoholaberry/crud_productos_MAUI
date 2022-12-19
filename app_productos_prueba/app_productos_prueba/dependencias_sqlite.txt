@@ -1,0 +1,5 @@
+sqlite-net-pcl
+SQLitePCLRaw.bundle_green
+SQLitePCLRaw.Core
+SQLitePCLRaw.provider.dynamic_cdecl
+SQLitePCLRaw.provider.sqlite3
