@@ -49,7 +49,7 @@
                 <Picker.ItemsSource>
                     <x:Array Type="{x:Type x:String}">
                         <x:String>Asus</x:String>
-                        <x:String>Lenovo Monkey</x:String>
+                        <x:String>Lenovo</x:String>
                         <x:String>Red Dragon</x:String>
                         <x:String>HP</x:String>
                         <x:String>Samsung</x:String>
